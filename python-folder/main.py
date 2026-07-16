@@ -1,1 +1,1 @@
-print("Hello main branch")
+print("Conflict from merge branch")
