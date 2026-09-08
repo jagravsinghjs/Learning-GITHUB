@@ -1,1 +1,1 @@
-Hellow guys I am learning Github commands
+Hello guys I am learning Github commands
